@@ -11,10 +11,8 @@ less is more
 
 ## :gear:  Github Analysis
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vran-dev&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vran-dev&layout=compact&langs_count=6&exclude_repo=vran-dev.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vran-dev&hide_title=true)](https://blog.cc1234.cc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vran-dev&layout=compact&langs_count=6&exclude_repo=vran-dev.github.io)](https://github.com/vran-dev)
 
 
-## :fire: Pinned
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vran-dev&repo=PrettyZoo&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+## :fire:
